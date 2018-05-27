@@ -4,7 +4,7 @@ App for iOS classes.
 ## Application
 
 ### Main view
-![alt text](https://raw.githubusercontent.com/Wiklos/iOS-List-of-lists/master/png/1.png)
+![alt text](https://raw.githubusercontent.com/Wiklos/iOS-List-of-lists/master/png/1.png | width=100))
 
 ### Add new list
 ![alt text](https://raw.githubusercontent.com/Wiklos/iOS-List-of-lists/master/png/2.png)
